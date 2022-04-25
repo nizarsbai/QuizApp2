@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="title_activity_locate_user">LocateUser</string>
+</resources>

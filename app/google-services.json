@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1081926006637",
+    "firebase_url": "https://auth-75d46-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "auth-75d46",
+    "storage_bucket": "auth-75d46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081926006637:android:0f4954c7084da8a5facc64",
+        "android_client_info": {
+          "package_name": "com.sbai.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081926006637-c31uoo1f0p5c1cb3mjme5scuu2v10gdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIh2KZRbIdfgGekR6-BaQtFQ6bO8wppz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081926006637-c31uoo1f0p5c1cb3mjme5scuu2v10gdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081926006637:android:e2fd4b92758d1d91facc64",
+        "android_client_info": {
+          "package_name": "com.sbai.quizapp_c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081926006637-c31uoo1f0p5c1cb3mjme5scuu2v10gdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIh2KZRbIdfgGekR6-BaQtFQ6bO8wppz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081926006637-c31uoo1f0p5c1cb3mjme5scuu2v10gdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
